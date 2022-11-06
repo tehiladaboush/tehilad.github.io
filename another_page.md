@@ -1,6 +1,6 @@
 layout: page
 title: "another-page"
-permalink:/docs
+permalink: /documentation
 
 
 Hi, 
