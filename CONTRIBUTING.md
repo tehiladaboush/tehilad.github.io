@@ -1,3 +1,7 @@
+layout: page
+title: "contributing"
+permalink: /contributing
+
 # Contributing Guide
 
 ## Issue Tracker
