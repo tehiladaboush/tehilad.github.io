@@ -1,6 +1,6 @@
 layout: page
 title: "contributing"
-permalink: /contributing
+permalink: /contributing/
 
 # Contributing Guide
 
